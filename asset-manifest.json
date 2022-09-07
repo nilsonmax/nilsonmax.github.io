@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.135f2c85.js",
+    "main.js": "/static/js/main.10d78979.js",
     "static/js/787.7ec99a0e.chunk.js": "/static/js/787.7ec99a0e.chunk.js",
     "static/media/nilsonmax.png": "/static/media/nilsonmax.e995d629cc01871c7fdd.png",
     "static/media/cybermax.jpg": "/static/media/cybermax.289d3d614689e1926400.jpg",
@@ -9,11 +9,11 @@
     "static/media/colegio.jpg": "/static/media/colegio.5c49517e0cb2c32ef5b6.jpg",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.135f2c85.js.map": "/static/js/main.135f2c85.js.map",
+    "main.10d78979.js.map": "/static/js/main.10d78979.js.map",
     "787.7ec99a0e.chunk.js.map": "/static/js/787.7ec99a0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.135f2c85.js"
+    "static/js/main.10d78979.js"
   ]
 }
